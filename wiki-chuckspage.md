@@ -50,3 +50,15 @@
 <img src="https://i.pinimg.com/736x/40/16/ec/4016ecbcfd2911d89b83721145cd915b.jpg" alt="Chuck Bass 4" width="300">
 
 **XOXO, Gossip Girl**  
+
+
+## 🔗 Navigation  
+* [ Back to Home](wiki-homepage.md)  
+* [ Blair’s Social Media](wiki-blairspage.md)  
+* [Serena van der Woodsen’s Social Media](wiki-serenaspage.md) 
+* [ Chuck’s Social Media](wiki-chuckspage.md) 
+* [Nate Archibald Social Media](wiki-natespage.md) 
+* [ Dan Humphrey’s Social Media](wiki-danspage.md)
+
+
+

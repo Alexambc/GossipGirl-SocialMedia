@@ -40,6 +40,7 @@ Top Videos:
 
 **XOXO, Gossip Girl**  
 
+---
 ## 🔗 Navigation  
 * [ Back to Home](wiki-homepage.md)  
 * [ Blair’s Social Media](wiki-blairspage.md)  

@@ -20,10 +20,10 @@
 - 🤍 **Aesthetic pictures she takes**  
 
 # 🚫 BLAIR WOULD NOT BE ON TIKTOK 🚫
----
 
 **XOXO, Gossip Girl**  
 
+---
 ## 🔗 Navigation  
 * [ Back to Home](wiki-homepage.md)  
 * [ Blair’s Social Media](wiki-blairspage.md)  

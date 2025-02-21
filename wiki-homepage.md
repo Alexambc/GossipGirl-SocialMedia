@@ -4,11 +4,11 @@
 What if Gossip Girl existed in 2025? How would Blair, Serena, and the rest of the Upper East Side use Instagram, Twitter, and TikTok?  
 
 ## Pages:  
-- [Blair’s Social Media](Blair-Waldorf-Social-Media)  
-- [Serena van der Woodsen’s Social Media](Serena-Social-Media) 
-- [Chuck’s Social Media](Chuck-Bass-Social-Media) 
-- [Nate Archibald's Social Media](Nate-Archibald-Social-Media) 
-- [Dan Humphrey’s Social Media](Dan-Humphrey-Social-Media)
+- [Blair’s Social Media]](wiki-blairspage.md)  
+- [Serena van der Woodsen’s Social Media](wiki-serenaspage.md) 
+- [Chuck’s Social Media](wiki-chuckspage.md) 
+- [Nate Archibald's Social Media](wiki-natespage.md) 
+- [Dan Humphrey’s Social Media](wiki-danspage.md)
 
 
 **XOXO, Gossip Girl**  

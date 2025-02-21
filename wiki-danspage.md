@@ -43,3 +43,10 @@
 
 **XOXO, Gossip Girl**  
 
+## 🔗 Navigation  
+* [ Back to Home](wiki-homepage.md)  
+* [ Blair’s Social Media](wiki-blairspage.md)  
+* [Serena van der Woodsen’s Social Media](wiki-serenaspage.md) 
+* [ Chuck’s Social Media](wiki-chuckspage.md) 
+* [Nate Archibald Social Media](wiki-natespage.md) 
+* [ Dan Humphrey’s Social Media](wiki-danspage.md)
